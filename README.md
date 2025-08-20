@@ -19,7 +19,7 @@
 - Building my **first portfolio website** (stay tuned 👀)
 - Uploading mini Python + Web Dev projects — clean and simple
 - Sharpening my basics for club recruitments & open-source stuff 🔍
-- Practicing for the **IITM Data Science** qualifier (wish me luck 🍀)
+
 
 ---
 

@@ -1,8 +1,8 @@
 # Hey there! 👋 I'm Jayavarshini
 
-🎓 Currently a 2nd year CSE student at SRM Kattankulathur  
-🔬 Deeply curious about how data tells stories — from numbers to insights  
-🧠 Learning to connect the dots between **code**, **creativity**, and **real-world problems**  
+ Currently a 2nd year CSE student at SRM Kattankulathur  
+ Deeply curious about how data tells stories — from numbers to insights  
+ Learning to connect the dots between **code**, **creativity**, and **real-world problems**  
 
 ---
 

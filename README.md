@@ -1,6 +1,3 @@
-Here’s a clean, natural README you can directly use on your GitHub profile:
-
----
 
 # Jayavarshini D.
 
